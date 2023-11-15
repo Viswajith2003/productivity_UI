@@ -1,6 +1,11 @@
-# React + Vite
+Productivity tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a single page productiviy messuring web_UI 
+
+Running project
+
+ -yarn 
+ -yarn dev
 
 Currently, two official plugins are available:
 
