@@ -1,0 +1,26 @@
+[
+    {
+        "payment":"Wise",
+        "balance":"$9,400",
+        "adhar":"8888 **** **** 2206",
+        "text":"Account balance"
+    },
+    {
+        "payment":"Paypal",
+        "balance":"$11,250",
+        "adhar":"paypal.me/latifulfa",
+        "text":"Account balance"
+    },
+    {
+        "payment":"Mastercard",
+        "balance":"$ 7,020",
+        "adhar":"8888 **** **** 2206",
+        "text":"Account balance"
+    },
+    {
+        "payment":"Visa",
+        "balance":"$4,500",
+        "adhar":"8888 **** **** 2206",
+        "text":"Account balance"
+    }
+]
