@@ -4,7 +4,6 @@ This is a single page productiviy messuring web_UI
 
 Running project
 
- -yarn 
  -yarn dev
 
 Currently, two official plugins are available:
